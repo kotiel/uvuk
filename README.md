@@ -16,6 +16,8 @@ Imagine you could improve your mind path 3D modeler to move objects around in 3D
 
 **UvuK** allows you to imagine a 3D path and execute it, even if you were visually impaired - with your fingers tips, thanks to the cubignons **PiK** et **Lak**.
 
+License Creative Commons (BY) (SA) (NC)
+
 
 ``` bash
 Bon Courage, 2018, June 1st
