@@ -1,4 +1,4 @@
-# UvuK
+# UvuK Cube
 
 <p align="center" >
   <img src="uvuk-03.jpg" title="UvuK" float=left>
