@@ -14,7 +14,7 @@ La capacité de l’esprit à anticiper un parcours 3D d'une position A vers une
 
 Imagine you could improve your mind path 3D modeler to move objects around in 3D space.
 
-**UvuK** allows you to imagine a 3D path and execute it, even if you were visually impaired - with your fingers tips, thanks to the cubignons **PiK** et **Lak**.
+**UvuK** allows you to imagine a 3D path and execute it, even if you were visually impaired - with your fingers tips, thanks to the cubignons **PiK** et **LaK**.
 
 License Creative Commons (BY) (SA) (NC)
 
