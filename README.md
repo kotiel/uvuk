@@ -20,6 +20,7 @@ License Creative Commons (BY) (SA) (NC)
 
 
 ``` bash
+email uvukcube@gmail.com
 Bon Courage, 2018, June 1st
 > K.
 ```
