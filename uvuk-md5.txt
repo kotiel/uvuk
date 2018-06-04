@@ -41,5 +41,5 @@ MD5 (uvuk-pic/uvuk-ap12-f06-cr1.jpg) = 5a546c5c32b5140fb3d32b1f77215077
 MD5 (uvuk-pic/uvuk-ap12-f06-cr2.jpg) = 7e6ba59b581dfe170597d25c2665c52e
 MD5 (uvuk-pic/uvuk-ap12-f07a-abcd.jpg) = 66c4455eea2d5b01981a78637db63dab
 MD5 (uvuk-pic/uvuk-ap12-f07a-badc.jpg) = 96bd735b1b7060d08e8acfd574a3867c
-MD5 (uvuk-doc-english.pdf) = 6f58d31125dd0072e54618c6bc23d564
-MD5 (uvuk-doc-french.pdf) = 9f4d675e67cb2863159a7784c5a1cf46
+MD5 (uvuk-doc-english.pdf) = 4980abb4a61f889419e68b9b378c8860
+MD5 (uvuk-doc-french.pdf) = 338f65fb980bed661d40d71447299574
