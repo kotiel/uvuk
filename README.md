@@ -22,6 +22,7 @@ Thanks to [La Cité des Sciences Fab Lab Paris](http://carrefour-numerique.cite-
 
 ``` bash
 To follow the Cubignons PiK and LaK, and more
+FB fb.me/uvukcube
 Instagram @uvukcube #uvukcube
 Email uvukcube@gmail.com
 
