@@ -31,4 +31,5 @@ Bon Courage, 2018, June 1st
 ```
 
 License Creative Commons (BY) (SA) (NC) https://creativecommons.org/licenses/by-nc/4.0/
+
 Licence Creative Commons Français (BY) (SA) (NC) https://creativecommons.org/licenses/by-nc/4.0/deed.fr
