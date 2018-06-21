@@ -30,4 +30,4 @@ Bon Courage, 2018, June 1st
 > K.
 ```
 
-License Creative Commons (BY) (SA) (NC)
+License Creative Commons (BY) (SA) (NC) https://creativecommons.org/licenses/by-nc/4.0/
