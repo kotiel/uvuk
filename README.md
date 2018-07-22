@@ -4,7 +4,7 @@
   <img src="uvuk-03.jpg" title="UvuKCube" float=left>
 </p>
 
-> UvuKiri, a frozen cube as a learning UvuKCube support - a lot of fun to build for children.
+> UvuKiri, an UvuKCube frozen as a learning support - fun build for the children.
 
 > Follow **@uvukcube** on Instagram and Twitter, soon the UvuKiri build guide.
 
