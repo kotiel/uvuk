@@ -1,20 +1,24 @@
 # UvuK Cube
 
 <p align="center" >
-  <img src="uvuk-03.jpg" title="UvuK" float=left>
+  <img src="uvuk-03.jpg" title="UvuKCube" float=left>
 </p>
+
+> UvuKiri, a frozen cube as a learning UvuKCube support - a lot of fun to build for children.
+
+> Follow **@uvukcube** on Instagram and Twitter, soon the UvuKiri build guide.
 
 ## Qu’est-ce l’UvuK Cube?
 
 La capacité de l’esprit à anticiper un parcours 3D d'une position A vers une position B dans l’espace 3D s'apprend.
-**UvuK** vous permet d’imaginer ce parcours en 3D (Troisième Dimension), avec vos sensations tactiles du bout des doigts guidées par les cubignons **PiK** et **LaK**.
+**UvuKCube** vous permet d’imaginer ce parcours en 3D (Troisième Dimension), avec vos sensations tactiles du bout des doigts guidées par les cubignons **PiK** et **LaK**.
 
 
-## What is the UvuK Cube?
+## What is the UvuKCube?
 
 Imagine you could improve your mind path 3D modeler to move objects around in 3D Space.
 
-**UvuK** allows you to imagine a 3D path and execute it, even if you were visually impaired - with your fingers tips, thanks to the cubignons **PiK** and **LaK**.
+**UvuKCube** allows you to imagine a 3D path and execute it, even if you were visually impaired - with your fingers tips, thanks to the cubignons **PiK** and **LaK**.
 
 Discover 3D Printing, Blender3D, even the documentation explains how to re-do a cube.
 
