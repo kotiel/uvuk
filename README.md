@@ -1,10 +1,12 @@
-# UvuK Cube
+# UvuKCube
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 <p align="center" >
   <img src="uvuk-03.jpg" title="UvuKCube" float=left>
 </p>
 
-> UvuKiri, an UvuKCube frozen as a learning support - fun build for the children.
+> Princess UvuKiri, UvuKCube's sister to help you playing with the UvuKCube - fun to build for the children.
 
 > Follow **@uvukcube** on Instagram and Twitter, soon the UvuKiri build guide.
 
@@ -42,6 +44,8 @@ Bon Courage, 2018, June 1st
 > K.
 ```
 
-License Creative Commons (BY) (SA) (NC) https://creativecommons.org/licenses/by-nc/4.0/
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 Licence Creative Commons Français (BY) (SA) (NC) https://creativecommons.org/licenses/by-nc/4.0/deed.fr
